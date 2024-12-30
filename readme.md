@@ -8,7 +8,6 @@ A simple and customizable React toast notification library.
 npm install robinson-reactjs-toast
 
 ```
-
 ## Usage
 
 ```javascript
